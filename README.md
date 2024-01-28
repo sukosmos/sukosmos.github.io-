@@ -1,1 +1,1 @@
-# suko.github.io
+# sukosmos.github.io
